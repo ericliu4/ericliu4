@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Eric Liu
-2nd Year Computer Engineering Student from the University of Toronto
+3rd Year Computer Engineering Student from the University of Toronto
 - Email: ey.liu@mail.utoronto.ca
 - LinkedIn: https://www.linkedin.com/in/eric-liu-76676021a/
 - Leetcode: https://leetcode.com/eric7liu562/
