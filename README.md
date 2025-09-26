@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Eric Liu
-Quant Trading Dev and PEY Computer Engineering Student from the University of Toronto
+Quant Trading Dev @ Scotia Algo Trading and PEY Computer Engineering Student from the University of Toronto
 - Email: ey.liu@mail.utoronto.ca
 - LinkedIn: https://www.linkedin.com/in/eric-liu-76676021a/
 - Leetcode: https://leetcode.com/eric7liu562/
