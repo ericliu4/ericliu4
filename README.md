@@ -6,6 +6,8 @@ Quant Trading Dev @ Scotia Algo Trading and PEY Computer Engineering Student fro
 
 Language and Tools:
 Python, c++, c, Java, Linux, Git, NumPy, PyTorch, Unix, Gym, 
+
+![](https://komarev.com/ghpvc/?username=ericliu4)
 <!--
 **ericliu4/ericliu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
