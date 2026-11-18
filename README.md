@@ -1,6 +1,4 @@
 ### 
-- Email: ey.liu@mail.utoronto.ca
-- LinkedIn: https://www.linkedin.com/in/eric-liu-76676021a/
 - Leetcode: https://leetcode.com/eric7liu562/
 <!--
 **ericliu4/ericliu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
